@@ -15,6 +15,7 @@
 		6F613769209413FE00650CBF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F613768209413FE00650CBF /* main.m */; };
 		6F6137732094143100650CBF /* JGZBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F6137712094143100650CBF /* JGZBaseViewController.m */; };
 		6F6137742094143100650CBF /* JGZNavBackIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6F6137722094143100650CBF /* JGZNavBackIcon@2x.png */; };
+		6F613777209416EB00650CBF /* NextViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F613775209416EA00650CBF /* NextViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,8 @@
 		6F6137702094143100650CBF /* JGZBaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JGZBaseViewController.h; sourceTree = "<group>"; };
 		6F6137712094143100650CBF /* JGZBaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JGZBaseViewController.m; sourceTree = "<group>"; };
 		6F6137722094143100650CBF /* JGZNavBackIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "JGZNavBackIcon@2x.png"; sourceTree = "<group>"; };
+		6F613775209416EA00650CBF /* NextViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NextViewController.m; sourceTree = "<group>"; };
+		6F613776209416EA00650CBF /* NextViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NextViewController.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +71,8 @@
 				6F61376F2094143100650CBF /* JGZBaseViewController */,
 				6F61375C209413FD00650CBF /* ViewController.h */,
 				6F61375D209413FD00650CBF /* ViewController.m */,
+				6F613776209416EA00650CBF /* NextViewController.h */,
+				6F613775209416EA00650CBF /* NextViewController.m */,
 				6F61375F209413FD00650CBF /* Main.storyboard */,
 				6F613762209413FE00650CBF /* Assets.xcassets */,
 				6F613764209413FE00650CBF /* LaunchScreen.storyboard */,
@@ -158,6 +163,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6F613777209416EB00650CBF /* NextViewController.m in Sources */,
 				6F61375E209413FD00650CBF /* ViewController.m in Sources */,
 				6F613769209413FE00650CBF /* main.m in Sources */,
 				6F61375B209413FD00650CBF /* AppDelegate.m in Sources */,
